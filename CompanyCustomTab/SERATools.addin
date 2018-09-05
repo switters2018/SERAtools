@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SERATools/Name>
+    <Assembly>SERATools.dll</Assembly>
+    <AddInId>4EF8B62C-49DD-4B6A-BAA8-FBBD44B51F46</AddInId>
+    <FullClassName>SERATools.App</FullClassName>
+    <VendorId>TRW</VendorId>
+  </AddIn>
+</RevitAddIns>

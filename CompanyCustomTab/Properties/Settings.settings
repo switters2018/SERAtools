@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CompanyCustomTab.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RevitTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SERATools</Value>
+    </Setting>
+    <Setting Name="EmailSupport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">itsupport@seradesign.com</Value>
+    </Setting>
+    <Setting Name="RevitServerAdmin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vm-rs2019.local.serapdx.com</Value>
+    </Setting>
+    <Setting Name="IntranetAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sera.sharepoint.com/SitePages/Home.aspx</Value>
+    </Setting>
+    <Setting Name="Website1Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bim.local.serapdx.com</Value>
+    </Setting>
+    <Setting Name="Website1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Process + Standards Manual</Value>
+    </Setting>
+    <Setting Name="Website2Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">randomwhitenoise.wordpress.com</Value>
+    </Setting>
+    <Setting Name="Website2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fighting Dinosaurs</Value>
+    </Setting>
+    <Setting Name="Website3Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.revitforum.org</Value>
+    </Setting>
+    <Setting Name="Website3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RevitForum</Value>
+    </Setting>
+    <Setting Name="IntranetName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SERA Architects Intranet</Value>
+    </Setting>
+    <Setting Name="ShowRevitServerAdmin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
